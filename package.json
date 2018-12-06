@@ -1,0 +1,19 @@
+{
+  "name": "oabutton",
+  "version": "0.0.1",
+  "description": "Static content of OAButton site like the homepage, blogs and the about page, and the email templates.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jibe-b/oabutton-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jibe-b/oabutton-website/issues"
+  },
+  "homepage": "https://github.com/jibe-b/oabutton-website#readme"
+}
